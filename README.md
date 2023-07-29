@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Reiko</h1>
-- 🔭 I’m currently working on [BeautyMe](https://github.com/ReikoOchiai/BeautyMe)
+- 🔭 I’m currently working for Booop as frontend developer [(https://booop.it/)]
 
 - 🌱 I’m currently learning **React Three Fiber**
 

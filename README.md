@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Three Fiber**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-reikoochiai.vercel.app/]((https://portfolio-reikoochiai.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://portfolio-reikoochiai.vercel.app/](https://portfolio-reikoochiai.vercel.app/)
 
 - 💬 Ask me about **React, Bootstrap, SASS**
 

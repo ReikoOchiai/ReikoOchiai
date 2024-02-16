@@ -1,16 +1,16 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Reiko</h1>
-🔭 I’m currently working for Booop as frontend developer [https://booop.it/]
+🔭 I’m currently working for Booop as Software developer [https://booop.it/]
 
 - 🌱 I’m currently learning **React Three Fiber**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-reikoochiai.vercel.app/](https://portfolio-reikoochiai.vercel.app/)
 
-- 💬 Ask me about **React, Bootstrap, SASS**
+- 💬 Ask me about **React.js, Three.js and TypeScript**
 
 - 📫 How to reach me **reiko.ochiai05@gmail.com**
 
-- ⚡ Fun fact **Huge basketball fun**
+- ⚡ Fun fact **Love everything about mechanical keyboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

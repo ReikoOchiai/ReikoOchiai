@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Three Fiber, GSLS shaders**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-reikoochiai.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://reiko-portfolio.vercel.app/]
 
 - 💬 Ask me about **React.js, Three.js and TypeScript**
 
